@@ -1,0 +1,4 @@
+train: ../Alzheimer_s Dataset/train
+val: ../Alzheimer_s Dataset/test
+nc: 4  # количество классов (MildDemented, ModerateDemented, NonDemented, VeryMildDemented)
+names: ['MildDemented', 'ModerateDemented', 'NonDemented', 'VeryMildDemented']
